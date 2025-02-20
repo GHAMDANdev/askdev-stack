@@ -1,4 +1,3 @@
-# ![ASKDEV Logo](https://github.com/user-attachments/assets/167661d4-9c47-43a2-828f-30e4caaa6ea1)
 
 # ASKDEV  
 
@@ -9,6 +8,13 @@ The platform includes a **robust API layer**, enabling seamless communication be
 > **📌 Note:** ASKDEV is not publicly available. If you're interested in accessing it, please contact us via **[ghamdandev@gmail.com](mailto:ghamdandev@gmail.com)**.  
 
 📺 **Watch the Demo**: [ASKDEV Overview](https://youtu.be/uiFOAoxjrWs?si=lvUqdlh2vjmFrvbo)  
+
+---
+
+---
+# ![ASKDEV Logo](https://github.com/user-attachments/assets/167661d4-9c47-43a2-828f-30e4caaa6ea1)
+#[ASKDEV Admin Dashboard](https://github.com/user-attachments/assets/0f0a1cb5-7193-4a15-9595-b7a5769e4784)  
+
 
 ---
 
@@ -49,27 +55,5 @@ ASKDEV is built with **user experience** in mind, offering:
 
 ---
 
-## 📷 Screenshots  
-
-![ASKDEV Admin Dashboard](https://github.com/user-attachments/assets/0f0a1cb5-7193-4a15-9595-b7a5769e4784)  
-
----
-
-## 📌 Installation & Setup  
-
-### 🔧 Prerequisites  
-Ensure you have the following installed:  
-- **.NET 7 SDK**  
-- **SQL Server**  
-- **Node.js** (For frontend dependencies)  
-- **Flutter SDK** (For mobile development)  
-
-### 🚀 Backend (ASP.NET Core API)  
-```sh
-cd backend
-# Install dependencies
-dotnet restore
-# Run the application
-dotnet run
-
-
+ 
+ 
